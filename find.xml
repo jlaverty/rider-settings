@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.css</mask>
+    <mask>*.cshtml</mask>
+    <mask>*.resx</mask>
+    <mask>*.js</mask>
+    <mask>follow*</mask>
+    <mask>*repo*.cs</mask>
+    <mask>*followu*</mask>
+    <mask>*followu*.html</mask>
+    <mask>*.cs</mask>
+    <mask>*follow*</mask>
+    <mask>*follow*.ts</mask>
+    <mask>*Controll</mask>
+    <mask>*Controll*</mask>
+    <mask>*cshtml*</mask>
+  </component>
+</application>
